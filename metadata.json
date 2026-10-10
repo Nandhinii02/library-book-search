@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library AI",
+  "description": "AI-Powered Library Book Search and Recommendation Agent Using LLM and RAG",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
